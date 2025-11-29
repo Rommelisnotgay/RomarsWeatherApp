@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@font-face {
+  font-family: eng;
+  src: url("../public/fonts/SpaceMono-Regular.ttf");
+  font-weight: normal;
+}
+@font-face {
+  font-family: eng;
+  src: url("../public/fonts/SpaceMono-Bold.ttf");
+  font-weight: bold;
+}
+* {
+  font-family: eng;
+  font-weight: normal;
+}
